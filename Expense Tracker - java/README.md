@@ -11,18 +11,13 @@
 - **Why is this project of interest to me?**
     *to help one make better decisions with spending*
 
-As a user I want to be able to add expenses with amount, date and category.
-As a user, I want to view a list of expenses. 
-As a user, I want to get a summary report on the monthly spendings that includes what category most money is spent on and what day of the month most money is spend on, average amount spent that month.
-As a user I want a warning if the amount spent in a certain day exceeds the budget specified for that day. 
+As a user I want to be able to add expenses with amount, date and category. I want to view a list of expenses and I want to get a summary report on the monthly spendings that includes what category most money is spent on and what day of the month most money is spend on, average amount spent that month. I want to get a warning if the amount spent in a certain day exceeds the budget specified for that day. 
 As a user I want to see a message about what percentage of the budget an expense is when entering the expense.
-
-phase 2
+<br>
 as a user I want to save the expenses added.
 as a user I want to load a list of expenses from a file.
 
-phase 3 
-Instructions to end user
+## Instructions to end user
 -You can view the panel that displays the Xs that have already been added to the Y by clicking on the print list of data button.
 - You can generate the first required action related to the user story "adding multiple Xs to a Y" by clicking view monthly total button to get monthly total of the expenses added.
 - You can generate the second required action related to the user story "adding multiple Xs to a Y" by clicking view monthly summary button to get some details about the expenses for a given month.
