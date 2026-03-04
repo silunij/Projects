@@ -4,4 +4,5 @@ Hi, I am Siluni. I am a second year Data Science student at the university of Br
 - Vancouver Business Data Analysis (Python)
 - Online Shopping Data Analysis (R)
 - Expense Tracker (Java)
+- Minecraft user - KNN classification (R)
 
